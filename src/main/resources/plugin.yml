@@ -1,0 +1,7 @@
+name: LearningSpigot
+version: '1.0.0'
+main: dev.brutally.learningSpigot.LearningSpigot
+api-version: '1.21'
+authors: [ Brutally ]
+description: An example plugin.
+website: www.brutally.dev
